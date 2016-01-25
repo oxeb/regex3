@@ -1,0 +1,7 @@
+[package]
+name = "regex3"
+version = "0.1.0"
+authors = ["Peter DeRosa <peter.david.derosa@gmail.com>"]
+
+[dependencies]
+regex = "0.1.48"
